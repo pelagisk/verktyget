@@ -2,6 +2,11 @@
 
 ## Interaktion
 
+Idéer:
+- grafiskt gränssnitt
+- ljud (lågnivå typ PortAudio?)
+- bild/video (shaders?)
+
 Axel: jag har börjat med:
 
 ```python3
