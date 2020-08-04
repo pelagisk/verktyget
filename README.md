@@ -3,7 +3,7 @@
 ## Interaktion
 
 Idéer:
-- grafiskt gränssnitt
+- grafiskt gränssnitt (openFrameworks? + PortAudio!)
 - ljud (lågnivå typ PortAudio?)
 - bild/video (shaders?)
 
